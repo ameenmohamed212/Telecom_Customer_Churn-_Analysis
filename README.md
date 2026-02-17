@@ -54,6 +54,6 @@ New Joiners: 410
 
 ## 🛠 Tools
 
-Power BI 
-DAX
+• Power BI 
+• DAX
 
